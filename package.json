@@ -29,6 +29,6 @@
   "scripts": { "test" : "make test" },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Automattic/engine.io.git"
+    "url": "git://github.com/swhe/engine.io"
   }
 }
